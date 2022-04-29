@@ -1,5 +1,0 @@
-nltk
-sklearn
-pandas
-gensim
-textblob
